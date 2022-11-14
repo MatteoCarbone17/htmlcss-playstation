@@ -26,6 +26,11 @@ section.jumbo{
     max-height: 400px;
 }
 
+.card-border-color{
+
+    background-color: rgb(31, 31, 31);
+}
+
 section.jumbo-low{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
