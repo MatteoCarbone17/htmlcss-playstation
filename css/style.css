@@ -1,0 +1,22 @@
+
+
+.debug{
+    height: 100px;
+    border: 1px solid black;
+    color: white;
+    background-color: rgb(30, 164, 182);
+}
+
+section.jumbo{
+    background-image: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    
+    
+}
+
+.debug-2{
+    height: 250px;
+}
