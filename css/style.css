@@ -7,6 +7,11 @@
     background-color: rgb(30, 164, 182);
 }
 
+div.logo-header>img{
+    height: 30px;
+}
+
+
 section.jumbo{
     background-image: url(../img/jumbo-bg.png);
     background-repeat: no-repeat;
@@ -30,6 +35,17 @@ div.logo-ps-plus-now>img{
 
 div.cards-social{
     min-width: 100px;
+}
+
+
+
+
+.btn-color-orange {
+    background-color: rgb(205, 61, 15);
+}
+
+img.img-width{
+    width: 400px;
 }
 
 .bg-color-grey{
