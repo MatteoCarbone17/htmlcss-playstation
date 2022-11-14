@@ -24,6 +24,12 @@ section.jumbo-low{
     background-position: center;
 }
 
+
+
+.bg-color-dark{
+    background-color: rgb(31, 31, 31);
+}
+
 .debug-2{
     height: 250px;
 }
