@@ -17,9 +17,7 @@ section.jumbo{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-   
-    
-    
+    padding-top: 450px;  
 }
 
 .ps-img>img{
@@ -36,6 +34,7 @@ section.jumbo-low{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    padding-top: 100px; 
 }
 
 div.logo-ps-plus-now>img{
@@ -46,7 +45,15 @@ div.cards-social{
     min-width: 100px;
 }
 
+.cards-width>img{
+    max-width: 80%;
+}
 
+
+footer li{
+    list-style-type: none;
+    color: white;
+}
 
 
 .btn-color-orange {
@@ -55,6 +62,10 @@ div.cards-social{
 
 img.img-width{
     width: 400px;
+}
+
+.bg-color-footer{
+    background-color: rgb(13, 110, 253);
 }
 
 .bg-color-grey{
