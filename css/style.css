@@ -82,3 +82,17 @@ img.img-width{
 .debug-2{
     height: 250px;
 }
+
+
+
+
+
+@media screen and (max-width: 768px ){
+
+    div.hidden>img{
+        display: none;
+    
+    }
+    
+    
+}
