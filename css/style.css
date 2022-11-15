@@ -17,7 +17,7 @@ section.jumbo{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding-top: 450px;  
+    padding-top: 550px;  
 }
 
 .ps-img>img{
@@ -49,6 +49,14 @@ div.cards-social{
     max-width: 80%;
 }
 
+div.cards-hover:hover{
+    border-bottom: solid 2px blue;
+}
+
+div.cards-completed-border:hover{
+    border: solid 5px blue;
+    border-radius: 1.7rem;
+}
 
 footer li{
     list-style-type: none;
@@ -94,5 +102,7 @@ img.img-width{
     
     }
     
-    
+    p.hidden-text{
+        display: none;
+    }
 }
